@@ -1,0 +1,3 @@
+Axure 
+
+	screen dimensions = w:1280, h:637
